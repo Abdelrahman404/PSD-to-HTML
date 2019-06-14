@@ -1,0 +1,251 @@
+hr{
+    border-color: #f2af00;
+    opacity: 0.3;
+}
+nav{
+    background-color: #fff;
+}
+.navbar-brand{
+    background-color: #dc5034;
+    color: white;
+    font-size: 40px;
+    font-family: 'Titillium Web',
+    sans-serif;
+}
+.navbar-brand:hover{
+    background-color: transparent;
+    color: yellow;
+}
+.collapse a:hover{
+    color: yellow;
+}
+.collapse a{
+        font-family: 'Titillium Web',
+        sans-serif;
+        font-size: 18px;
+}
+.collapse li{
+       padding: 30px;
+}
+.nav-link{
+    color:grey;
+}
+
+.home{
+  background: url('../images/home-bg.jpg')no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  padding-top: 220px;
+  padding-bottom: 100px;
+  font-family: 'Titillium Web',
+        sans-serif;
+}
+.home h1{
+    font-family: 'Titillium Web',
+    sans-serif;
+}
+.home strong{
+    color: #f2af00;
+}
+.home button{
+    width: 180px;
+    height: 60px;
+    background-color: transparent;
+    border: black solid 2px;
+}
+.home button:hover{
+    background-color: #dc5034;
+    color:white;
+    border: solid 2px transparent;
+}
+.work-flow{
+    line-height: 20px;
+    padding: 20px;
+}
+.work-flow h1{
+         border-left: 2px solid #f2af00;
+         padding-left: 10px;
+}
+.work-flow i{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+    font-size: 60px;
+    color:#dc5034;
+    border-top: 2px solid #f2af00;
+    border-bottom: 2px solid #dc5034;
+    border-radius: 50%;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: relative;
+}
+.about{
+    margin-bottom:70px;
+}
+.about .col-12{
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about h1{
+      border-left: 2px solid #f2af00;
+      display: inline-block;
+      padding-left:10px;
+
+}
+.about img{
+    border: 1px solid #666;
+    padding: 10px;
+} 
+.about h2 , h3 , h4 , p {
+    font-family: 'Titillium Web',
+        sans-serif;
+}
+.team{
+    font-family: 'Titillium Web',
+    sans-serif;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.team img{
+    border : 1px solid #666;
+    padding: 10px;
+}
+.team .col-md-12{
+    text-align: center;
+    padding : 50px;
+}
+.team h1{
+    border-left: solid 1px #f2af00;
+    padding-left: 10px;
+    display: inline-block;
+}
+
+.test{
+    text-align: center;
+
+}
+.portifilo{
+   text-align: center;
+}
+.portifilo .col-4 , .col-6{
+    margin-bottom: 20px;
+}
+.portifilo .col-12{
+    padding: 20px 0px 20px 20px; 
+}
+.portifilo h1{
+        border-left: 1px solid #f2af00;
+        padding-left: 20px;
+        font-family: 'Titillium Web',
+        sans-serif;
+        display: inline-block;
+}
+   
+.pricing{
+    font-family: 'Titillium Web', sans-serif;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.pricing h2{
+    padding-top: 20px;
+ }
+.pricing .col-md-3{
+    
+    border: 2px solid black;
+    padding-bottom: 20px;
+}
+.pricing hr{
+    border-color: black;
+    font-size: 20px;
+}
+.pricing ul{
+    list-style: none;
+}
+.pricing button{
+    width: 150px;
+    height: 40px;
+    border: 2px solid black;
+    padding-bottom:40px;
+    background-color:transparent;
+}
+.pricing button:hover{
+    background-color: #f2af00;
+    color: #fff;
+}
+.contact{
+ 
+    text-align: center;
+    padding-top: 80px 0px 40px 0px;
+    font-family: 'Titillium Web',
+    sans-serif;
+    margin-bottom: 40px;
+
+}
+.contact .row{
+    padding :10px;
+}
+.contact h1{
+    display: inline-block;
+    padding-left: 20px;
+    border-left: 1px solid #f2af00;
+}
+.contact textarea{
+    border: solid 2px black;
+    font-family: 'Titillium Web', sans-serif;
+    border-radius: 0px;
+}
+.contact input{
+    border: solid 2px black;
+    font-family: 'Titillium Web', sans-serif;
+    color: black;
+    border-radius: 0px;
+    height: 50px;
+}
+.contact .form-control:hover{
+    opacity: 1;
+    position: relative;
+    bottom: 10px;
+}
+.contact #btn{
+    width: 250px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    border: 0px;
+}
+.contact #btn:hover{
+        background-color: #f2af00;
+}
+.adress {
+    font-family: 'Titillium Web',
+    sans-serif;
+}
+.adress h1{
+    display: inline-block;
+    border-left: solid 1px #f2af00;
+    padding: 40px;
+}
+.adress span{
+    font-weight: bold;
+}
+
+.adress i{
+    font-size: 50px;
+    color: black;
+}
+.adress i:hover{
+    color: #f2af00;
+}
+.footer{
+    text-align: center;
+}
+
+
+
+
